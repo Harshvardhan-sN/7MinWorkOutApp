@@ -10,7 +10,7 @@
     <b>Speak-out Feature</b>: At the start of each exercise, the app will audibly announce the name of the exercise. This feature allows you to follow along without constantly checking your device.
   </li>
   <li>
-    __History Tracking__: The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
+    __History __Tracking__: The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
   </li>
 </ol>
 
