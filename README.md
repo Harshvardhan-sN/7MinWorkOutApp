@@ -56,7 +56,7 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 - Kotlin language
 - XML language
 - Android Studio
-- FireBase FireStore
+- Room Database
 
 ## Screenshots
 
