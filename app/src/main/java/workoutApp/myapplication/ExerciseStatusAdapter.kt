@@ -1,5 +1,6 @@
 package workoutApp.myapplication
 
+import android.annotation.SuppressLint
 import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.ViewGroup
@@ -20,6 +21,7 @@ class ExerciseStatusAdapter(val items: ArrayList<Model>):
             (LayoutInflater.from(parent.context), parent, false))
     }
 
+    @SuppressLint("ResourceAsColor")
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val model: Model = items[position]
         holder.tvItem.text = model.getId().toString()
@@ -27,20 +29,20 @@ class ExerciseStatusAdapter(val items: ArrayList<Model>):
             model.getIsSelected() -> {
                 holder.tvItem.background =
                     ContextCompat.getDrawable(holder.itemView.context,
-                    R.drawable.green_color_selected_bg)
-                holder.tvItem.setTextColor(Color.parseColor("#FFFFFF"))
+                    R.drawable.ongoing_exercise_color_yellow)
+                holder.tvItem.setTextColor(Color.parseColor("#000000"))
             }
             model.getIsCompleted() -> {
                 holder.tvItem.background =
                     ContextCompat.getDrawable(holder.itemView.context,
-                        R.drawable.item_cicular_color_accent_background)
-                holder.tvItem.setTextColor(Color.parseColor("#e5e5e5"))
+                        R.drawable.finished_exercise_color_green)
+                holder.tvItem.setTextColor(Color.parseColor("#FFFFFF"))
             }
             else -> {
                 holder.tvItem.background =
                     ContextCompat.getDrawable(holder.itemView.context,
-                        R.drawable.item_circular_color_red_bg)
-                holder.tvItem.setTextColor(Color.parseColor("#f8f9fa"))
+                        R.drawable.upcoming_exercise_red_color)
+                holder.tvItem.setTextColor(Color.parseColor("#FFFFFF"))
             }
         }
     }

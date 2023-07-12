@@ -58,7 +58,7 @@
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
-            android:background="@drawable/item_cicular_color_accent_background"
+            android:background="@drawable/finished_exercise_color_green"
             android:gravity="center">
             <TextView
                 android:id="@+id/text_view_linear_layout"
@@ -153,7 +153,7 @@
             android:layout_width="60dp"
             android:layout_height="60dp"
             android:layout_gravity="center"
-            android:background="@drawable/item_cicular_color_accent_background"
+            android:background="@drawable/finished_exercise_color_green"
             android:gravity="center">
             <TextView
                 android:id="@+id/text_view_linear_layout_exercise"
