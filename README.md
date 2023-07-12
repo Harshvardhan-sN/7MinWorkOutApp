@@ -4,7 +4,7 @@
 
 ## Features:
 <ol>
-  <li><b>Exercise Images</b>: The app provides 12 different exercise images, each displayed for 30 seconds. These images serve as visual guides, demonstrating the correct form and technique for each exercise.
+  <li><b>Exercise Display and Speak-out Feature</b>: The app provides 12 different exercise images, each displayed for 30 seconds, accompanied by 10-second breaks between exercises. Additionally, a unique speak-out feature announces the name of each exercise at the beginning, enhancing your workout experience.
   </li>
   <li>
     <b>Speak-out Feature</b>: At the start of each exercise, the app will audibly announce the name of the exercise. This feature allows you to follow along without constantly checking your device.
