@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <TextView
+        android:id="@+id/tv_alert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        android:text="Alert!!"
+        android:paddingStart="26dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_margin="7dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/customDialog1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/are_you_sure"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_alert"
+        android:layout_margin="10dp"
+        android:paddingBottom="5dp"
+        />
+    <TextView
+        android:id="@+id/customDialog2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/message_confirm"
+        android:textSize="15sp"
+        app:layout_constraintTop_toBottomOf="@id/customDialog1"
+        android:layout_marginLeft="30dp"
+        android:gravity="center"
+        android:layout_marginRight="30dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:paddingBottom="7dp"
+        />
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/customDialog2"
+        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        >
+        <Button
+            android:id="@+id/dialog_yes"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="@string/yes"
+            android:layout_marginEnd="20dp"
+            />
+        <Button
+            android:id="@+id/dialog_no"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:text="@string/no"
+            />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
