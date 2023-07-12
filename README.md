@@ -1,6 +1,17 @@
 # GrowMore
 
-GrowMore is a project management Android app inspired by Trello. It provides a flexible and intuitive way to manage various types of projects, workflows, and task tracking. With GrowMore, users can create boards, lists, and cards to organize and track their projects according to their own preferences. Additionally, the app allows users to add and assign members to specific tasks, fostering collaboration and efficient project management.
+7MinWorkOutApp is a user-friendly workout application designed to help you stay fit and active. With a variety of exercises and convenient features, this app is perfect for anyone looking to incorporate a quick and effective workout into their daily routine.
+
+## Features:
+<ol>
+  <li>Exercise Images: The app provides 12 different exercise images, each displayed for 30 seconds. These images serve as visual guides, demonstrating the correct form and technique for each exercise.
+  </li>
+  <li>**Speak-out Feature:** At the start of each exercise, the app will audibly announce the name of the exercise. This feature allows you to follow along without constantly checking your device.
+  </li>
+  <li>
+    **History Tracking:** The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
+  </li>
+</ol>
 
 ## Table of Contents
 
