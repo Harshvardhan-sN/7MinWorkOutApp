@@ -4,13 +4,13 @@
 
 ## Features:
 <ol>
-  <li>Exercise Images: The app provides 12 different exercise images, each displayed for 30 seconds. These images serve as visual guides, demonstrating the correct form and technique for each exercise.
+  <li><b>Exercise Images</b>: The app provides 12 different exercise images, each displayed for 30 seconds. These images serve as visual guides, demonstrating the correct form and technique for each exercise.
   </li>
   <li>
-    <b>Speak-out</b> Feature: At the start of each exercise, the app will audibly announce the name of the exercise. This feature allows you to follow along without constantly checking your device.
+    <b>Speak-out Feature</b>: At the start of each exercise, the app will audibly announce the name of the exercise. This feature allows you to follow along without constantly checking your device.
   </li>
   <li>
-    **History Tracking:** The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
+    <b>History Tracking</b>: The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
   </li>
 </ol>
 
