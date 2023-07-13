@@ -24,6 +24,7 @@ class ResultActivity : AppCompatActivity() {
         if(supportActionBar != null){
             supportActionBar?.setDisplayHomeAsUpEnabled(true)
         }
+        supportActionBar?.title = "Finish"
         binding?.toolbarExercies?.setNavigationOnClickListener{
             onBackPressed()
         }

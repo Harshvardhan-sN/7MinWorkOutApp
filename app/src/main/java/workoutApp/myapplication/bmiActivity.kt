@@ -95,20 +95,20 @@ class bmiActivity : AppCompatActivity() {
         val description: String
         if (bmi<18.5){
             type = "UnderWeight"
-            description = "Eat five to six smaller meals during the day rather than two or three large meals. Choose nutrient-rich foods. As part of an overall healthy diet, choose whole-grain breads, pastas and cereals; fruits and vegetables; dairy products; lean protein sources; and nuts and seeds. Try smoothies and shakes"
+            description = "Focus on building muscle and gaining weight in a healthy way. Incorporate strength training exercises and ensure you're consuming enough calories."
         }
         else if(bmi>=18.5 && bmi<25){
             type = "Healthy"
-            description = "Good health and good sense are two of life's greatest blessings."
+            description = "Stay consistent with exercise and a balanced diet. Try different workout styles and listen to your body's needs for rest and recovery."
 
         }
         else if(bmi>=25 && bmi<30){
             type = "OverWeight"
-            description = "Increase regular physical activity, a decrease in saturated fat intake, a decrease in sugar consumption, and an increase in fruit and vegetable consumption"
+            description = "Burn calories with cardiovascular exercises and make gradual changes to your eating habits. Seek professional guidance for a sustainable weight loss plan."
         }
         else{
-            type = "obesity"
-            description = "Oops! You are in a very Dangerous condition! Act Now!"
+            type = "Obesity"
+            description = "Consult a healthcare professional for personalized advice. Adopt a balanced diet and regular physical activity. Set realistic goals and seek support for motivation."
         }
         val bmiVal = BigDecimal(bmi.toDouble())
             .setScale(2,RoundingMode.HALF_EVEN).toString()

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">WorkOut App</string>
+    <string name="app_name">WorkOut</string>
     <string name="image">Start Image</string>
     <string name="start">START</string>
     <string name="get_ready_for">Get Ready For</string>
