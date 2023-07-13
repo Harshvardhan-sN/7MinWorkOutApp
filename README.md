@@ -24,7 +24,6 @@
   - [Installation](#installation)
 - [Technology](#technology)
 - [Screenshots](#screenshots)
-- [App Preview](#app-preview)
 - [Download](#download)
 
 ## Getting Started
@@ -64,17 +63,14 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 ## Screenshots
 
 <div style="display: flex;">
-  <img src="https://github.com/Harshvardhan-sN/GrowMore/blob/main/screenshots/intro.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/GrowMore/blob/main/screenshots/splash.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/GrowMore/blob/main/screenshots/1.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/GrowMore/blob/main/screenshots/2.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/GrowMore/blob/main/screenshots/3.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/1.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/2.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/3.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/4.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/5.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/6.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/7.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
 </div>
-
-
-## App Preview
-
-https://github.com/Harshvardhan-sN/GrowMore/assets/81630801/86710e72-cedb-47db-9727-88caa32c1ec2
 
 ## Download
 To start using the app, you can download the APK file: <a href="https://drive.google.com/file/d/1s6xgx_nmLq9MR-F-9rdiO423NQuTA_fJ/view?usp=drive_link" target="_blank">Download APK</a>
