@@ -1,6 +1,6 @@
 # 7MinWorkOutApp
 
-7MinWorkOutApp is a user-friendly workout application designed to help you stay fit and active. With a variety of exercises and convenient features, this app is perfect for anyone looking to incorporate a quick and effective workout into their daily routine.
+7MinWorkOutApp is a user-friendly workout application designed to help you stay fit and active. With a variety of exercises and convenient features, this app is perfect for anyone looking to incorporate a quick and effective workout into their daily routine. It also offers a BMI calculation feature, allowing users to assess their Body Mass Index (BMI) and track their progress toward their fitness goals
 
 ## Features:
 <ol>
