@@ -73,4 +73,4 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 </div>
 
 ## Download
-To start using the app, you can download the APK file: <a href="https://drive.google.com/file/d/1rDILo6UMh9ZhpOTxKynFosuMSttYJlIX/view?usp=drive_link" target="_blank">Download APK</a>
+To start using the app, you can download the APK file: <a href="https://drive.google.com/file/d/1fephwre3SL5atN-bvCCrxKXLmqXb_Qlf/view?usp=drive_link" target="_blank">Download APK</a>
