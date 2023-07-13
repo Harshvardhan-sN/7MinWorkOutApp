@@ -63,13 +63,13 @@ Alternatively, you can download the repository as a ZIP file and extract it.
 ## Screenshots
 
 <div style="display: flex;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/1.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/2.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/3.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/4.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/5.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/6.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
-  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/7.png" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/1.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/2.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/3.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/4.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/5.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/6.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
+  <img src="https://github.com/Harshvardhan-sN/7MinWorkOutApp/blob/main/screenshots/7.jpg" width="271" height="587" style="border: 5px solid #555; padding: 8px;">
 </div>
 
 ## Download
