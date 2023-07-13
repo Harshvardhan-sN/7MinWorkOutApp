@@ -12,6 +12,9 @@
   <li>
     <b>History Tracking</b>: The app records your workout history, storing the date and time when you complete all the exercises. This feature helps you track your progress and stay motivated as you see your consistent commitment to fitness.
   </li>
+  <li>
+    <b>BMI Calculation in US and Metric Units</b>: The app offers a BMI calculation feature that allows users to assess their Body Mass Index in both US units (pounds and inches) and Metric units (kilograms and centimeters). This flexibility enables users to choose their preferred unit of measurement and obtain accurate BMI readings for their fitness goals.
+  </li>
 </ol>
 
 ## Table of Contents
